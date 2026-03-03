@@ -11,12 +11,12 @@ header{
     justify-content: space-around;
     align-items: center;
 }
-/* .logo{
+.logo{
    width: 20%;
    height: 80%;
    background-color: blue;
 }
-button{
+/* button{
     width: 70px;
     height: 80%;
     background-color: aqua;
