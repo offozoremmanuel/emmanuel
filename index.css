@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    background-color: paleturquoise;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+/* .logo{
+   width: 20%;
+   height: 80%;
+   background-color: blue;
+}
+button{
+    width: 70px;
+    height: 80%;
+    background-color: aqua;
+} */
